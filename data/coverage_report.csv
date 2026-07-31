@@ -1,0 +1,856 @@
+sheet,country,year,n_banks_reporting
+Tier 1 Capital,AT,2023,18
+Tier 1 Capital,BE,2023,11
+Tier 1 Capital,CY,2023,4
+Tier 1 Capital,DE,2023,29
+Tier 1 Capital,EE,2023,2
+Tier 1 Capital,ES,2023,29
+Tier 1 Capital,FI,2023,13
+Tier 1 Capital,FR,2023,87
+Tier 1 Capital,GR,2023,4
+Tier 1 Capital,IE,2023,8
+Tier 1 Capital,IT,2023,40
+Tier 1 Capital,LT,2023,3
+Tier 1 Capital,LU,2023,6
+Tier 1 Capital,LV,2023,7
+Tier 1 Capital,MT,2023,3
+Tier 1 Capital,NL,2023,9
+Tier 1 Capital,PT,2023,15
+Tier 1 Capital,SI,2023,5
+Tier 1 Capital,SK,2023,5
+Tier 1 Capital,AT,2022,18
+Tier 1 Capital,BE,2022,11
+Tier 1 Capital,CY,2022,4
+Tier 1 Capital,DE,2022,31
+Tier 1 Capital,EE,2022,2
+Tier 1 Capital,ES,2022,30
+Tier 1 Capital,FI,2022,14
+Tier 1 Capital,FR,2022,85
+Tier 1 Capital,GR,2022,5
+Tier 1 Capital,IE,2022,7
+Tier 1 Capital,IT,2022,40
+Tier 1 Capital,LT,2022,3
+Tier 1 Capital,LU,2022,6
+Tier 1 Capital,LV,2022,7
+Tier 1 Capital,MT,2022,3
+Tier 1 Capital,NL,2022,9
+Tier 1 Capital,PT,2022,15
+Tier 1 Capital,SI,2022,5
+Tier 1 Capital,SK,2022,5
+Tier 1 Capital,AT,2021,19
+Tier 1 Capital,BE,2021,12
+Tier 1 Capital,CY,2021,4
+Tier 1 Capital,DE,2021,29
+Tier 1 Capital,EE,2021,2
+Tier 1 Capital,ES,2021,31
+Tier 1 Capital,FI,2021,16
+Tier 1 Capital,FR,2021,86
+Tier 1 Capital,GR,2021,4
+Tier 1 Capital,IE,2021,8
+Tier 1 Capital,IT,2021,38
+Tier 1 Capital,LT,2021,4
+Tier 1 Capital,LU,2021,6
+Tier 1 Capital,LV,2021,7
+Tier 1 Capital,MT,2021,3
+Tier 1 Capital,NL,2021,9
+Tier 1 Capital,PT,2021,15
+Tier 1 Capital,SI,2021,6
+Tier 1 Capital,SK,2021,5
+Tier 1 Capital,AT,2020,19
+Tier 1 Capital,BE,2020,13
+Tier 1 Capital,CY,2020,3
+Tier 1 Capital,DE,2020,27
+Tier 1 Capital,EE,2020,2
+Tier 1 Capital,ES,2020,33
+Tier 1 Capital,FI,2020,15
+Tier 1 Capital,FR,2020,86
+Tier 1 Capital,GR,2020,4
+Tier 1 Capital,IE,2020,8
+Tier 1 Capital,IT,2020,38
+Tier 1 Capital,LT,2020,4
+Tier 1 Capital,LU,2020,6
+Tier 1 Capital,LV,2020,8
+Tier 1 Capital,MT,2020,3
+Tier 1 Capital,NL,2020,9
+Tier 1 Capital,PT,2020,15
+Tier 1 Capital,SI,2020,4
+Tier 1 Capital,SK,2020,5
+Tier 1 Capital,AT,2019,20
+Tier 1 Capital,BE,2019,13
+Tier 1 Capital,CY,2019,4
+Tier 1 Capital,DE,2019,26
+Tier 1 Capital,EE,2019,2
+Tier 1 Capital,ES,2019,33
+Tier 1 Capital,FI,2019,17
+Tier 1 Capital,FR,2019,88
+Tier 1 Capital,GR,2019,4
+Tier 1 Capital,IE,2019,7
+Tier 1 Capital,IT,2019,35
+Tier 1 Capital,LT,2019,4
+Tier 1 Capital,LU,2019,5
+Tier 1 Capital,LV,2019,8
+Tier 1 Capital,MT,2019,3
+Tier 1 Capital,NL,2019,10
+Tier 1 Capital,PT,2019,15
+Tier 1 Capital,SI,2019,4
+Tier 1 Capital,SK,2019,5
+Tier 1 Ratio,AT,2023,19
+Tier 1 Ratio,BE,2023,11
+Tier 1 Ratio,CY,2023,3
+Tier 1 Ratio,DE,2023,37
+Tier 1 Ratio,EE,2023,2
+Tier 1 Ratio,ES,2023,30
+Tier 1 Ratio,FI,2023,13
+Tier 1 Ratio,FR,2023,84
+Tier 1 Ratio,GR,2023,5
+Tier 1 Ratio,IE,2023,8
+Tier 1 Ratio,IT,2023,41
+Tier 1 Ratio,LT,2023,3
+Tier 1 Ratio,LU,2023,6
+Tier 1 Ratio,LV,2023,6
+Tier 1 Ratio,MT,2023,3
+Tier 1 Ratio,NL,2023,9
+Tier 1 Ratio,PT,2023,16
+Tier 1 Ratio,SI,2023,5
+Tier 1 Ratio,SK,2023,4
+Tier 1 Ratio,AT,2022,18
+Tier 1 Ratio,BE,2022,11
+Tier 1 Ratio,CY,2022,3
+Tier 1 Ratio,DE,2022,43
+Tier 1 Ratio,EE,2022,2
+Tier 1 Ratio,ES,2022,31
+Tier 1 Ratio,FI,2022,14
+Tier 1 Ratio,FR,2022,83
+Tier 1 Ratio,GR,2022,5
+Tier 1 Ratio,IE,2022,7
+Tier 1 Ratio,IT,2022,41
+Tier 1 Ratio,LT,2022,3
+Tier 1 Ratio,LU,2022,6
+Tier 1 Ratio,LV,2022,7
+Tier 1 Ratio,MT,2022,3
+Tier 1 Ratio,NL,2022,9
+Tier 1 Ratio,PT,2022,16
+Tier 1 Ratio,SI,2022,5
+Tier 1 Ratio,SK,2022,4
+Tier 1 Ratio,AT,2021,21
+Tier 1 Ratio,BE,2021,12
+Tier 1 Ratio,CY,2021,3
+Tier 1 Ratio,DE,2021,40
+Tier 1 Ratio,EE,2021,2
+Tier 1 Ratio,ES,2021,32
+Tier 1 Ratio,FI,2021,15
+Tier 1 Ratio,FR,2021,82
+Tier 1 Ratio,GR,2021,4
+Tier 1 Ratio,IE,2021,8
+Tier 1 Ratio,IT,2021,39
+Tier 1 Ratio,LT,2021,4
+Tier 1 Ratio,LU,2021,6
+Tier 1 Ratio,LV,2021,6
+Tier 1 Ratio,MT,2021,3
+Tier 1 Ratio,NL,2021,9
+Tier 1 Ratio,PT,2021,16
+Tier 1 Ratio,SI,2021,6
+Tier 1 Ratio,SK,2021,4
+Tier 1 Ratio,AT,2020,21
+Tier 1 Ratio,BE,2020,12
+Tier 1 Ratio,CY,2020,3
+Tier 1 Ratio,DE,2020,38
+Tier 1 Ratio,EE,2020,2
+Tier 1 Ratio,ES,2020,34
+Tier 1 Ratio,FI,2020,14
+Tier 1 Ratio,FR,2020,85
+Tier 1 Ratio,GR,2020,4
+Tier 1 Ratio,IE,2020,8
+Tier 1 Ratio,IT,2020,40
+Tier 1 Ratio,LT,2020,4
+Tier 1 Ratio,LU,2020,6
+Tier 1 Ratio,LV,2020,8
+Tier 1 Ratio,MT,2020,3
+Tier 1 Ratio,NL,2020,9
+Tier 1 Ratio,PT,2020,16
+Tier 1 Ratio,SI,2020,5
+Tier 1 Ratio,SK,2020,4
+Tier 1 Ratio,AT,2019,23
+Tier 1 Ratio,BE,2019,14
+Tier 1 Ratio,CY,2019,4
+Tier 1 Ratio,DE,2019,31
+Tier 1 Ratio,EE,2019,2
+Tier 1 Ratio,ES,2019,34
+Tier 1 Ratio,FI,2019,17
+Tier 1 Ratio,FR,2019,80
+Tier 1 Ratio,GR,2019,4
+Tier 1 Ratio,IE,2019,7
+Tier 1 Ratio,IT,2019,37
+Tier 1 Ratio,LT,2019,4
+Tier 1 Ratio,LU,2019,6
+Tier 1 Ratio,LV,2019,8
+Tier 1 Ratio,MT,2019,3
+Tier 1 Ratio,NL,2019,10
+Tier 1 Ratio,PT,2019,16
+Tier 1 Ratio,SI,2019,5
+Tier 1 Ratio,SK,2019,4
+Tot. cap. adequacy ratio,AT,2023,19
+Tot. cap. adequacy ratio,BE,2023,12
+Tot. cap. adequacy ratio,CY,2023,4
+Tot. cap. adequacy ratio,DE,2023,38
+Tot. cap. adequacy ratio,EE,2023,2
+Tot. cap. adequacy ratio,ES,2023,30
+Tot. cap. adequacy ratio,FI,2023,13
+Tot. cap. adequacy ratio,FR,2023,89
+Tot. cap. adequacy ratio,GR,2023,6
+Tot. cap. adequacy ratio,IE,2023,8
+Tot. cap. adequacy ratio,IT,2023,42
+Tot. cap. adequacy ratio,LT,2023,3
+Tot. cap. adequacy ratio,LU,2023,6
+Tot. cap. adequacy ratio,LV,2023,7
+Tot. cap. adequacy ratio,MT,2023,4
+Tot. cap. adequacy ratio,NL,2023,9
+Tot. cap. adequacy ratio,PT,2023,16
+Tot. cap. adequacy ratio,SI,2023,5
+Tot. cap. adequacy ratio,SK,2023,4
+Tot. cap. adequacy ratio,AT,2022,18
+Tot. cap. adequacy ratio,BE,2022,12
+Tot. cap. adequacy ratio,CY,2022,4
+Tot. cap. adequacy ratio,DE,2022,44
+Tot. cap. adequacy ratio,EE,2022,2
+Tot. cap. adequacy ratio,ES,2022,31
+Tot. cap. adequacy ratio,FI,2022,14
+Tot. cap. adequacy ratio,FR,2022,89
+Tot. cap. adequacy ratio,GR,2022,6
+Tot. cap. adequacy ratio,IE,2022,7
+Tot. cap. adequacy ratio,IT,2022,43
+Tot. cap. adequacy ratio,LT,2022,3
+Tot. cap. adequacy ratio,LU,2022,6
+Tot. cap. adequacy ratio,LV,2022,7
+Tot. cap. adequacy ratio,MT,2022,4
+Tot. cap. adequacy ratio,NL,2022,9
+Tot. cap. adequacy ratio,PT,2022,16
+Tot. cap. adequacy ratio,SI,2022,5
+Tot. cap. adequacy ratio,SK,2022,4
+Tot. cap. adequacy ratio,AT,2021,21
+Tot. cap. adequacy ratio,BE,2021,13
+Tot. cap. adequacy ratio,CY,2021,4
+Tot. cap. adequacy ratio,DE,2021,43
+Tot. cap. adequacy ratio,EE,2021,2
+Tot. cap. adequacy ratio,ES,2021,32
+Tot. cap. adequacy ratio,FI,2021,16
+Tot. cap. adequacy ratio,FR,2021,87
+Tot. cap. adequacy ratio,GR,2021,4
+Tot. cap. adequacy ratio,IE,2021,8
+Tot. cap. adequacy ratio,IT,2021,41
+Tot. cap. adequacy ratio,LT,2021,4
+Tot. cap. adequacy ratio,LU,2021,6
+Tot. cap. adequacy ratio,LV,2021,7
+Tot. cap. adequacy ratio,MT,2021,3
+Tot. cap. adequacy ratio,NL,2021,9
+Tot. cap. adequacy ratio,PT,2021,16
+Tot. cap. adequacy ratio,SI,2021,6
+Tot. cap. adequacy ratio,SK,2021,4
+Tot. cap. adequacy ratio,AT,2020,21
+Tot. cap. adequacy ratio,BE,2020,13
+Tot. cap. adequacy ratio,CY,2020,4
+Tot. cap. adequacy ratio,DE,2020,42
+Tot. cap. adequacy ratio,EE,2020,2
+Tot. cap. adequacy ratio,ES,2020,34
+Tot. cap. adequacy ratio,FI,2020,15
+Tot. cap. adequacy ratio,FR,2020,91
+Tot. cap. adequacy ratio,GR,2020,4
+Tot. cap. adequacy ratio,IE,2020,8
+Tot. cap. adequacy ratio,IT,2020,41
+Tot. cap. adequacy ratio,LT,2020,4
+Tot. cap. adequacy ratio,LU,2020,6
+Tot. cap. adequacy ratio,LV,2020,8
+Tot. cap. adequacy ratio,MT,2020,3
+Tot. cap. adequacy ratio,NL,2020,9
+Tot. cap. adequacy ratio,PT,2020,16
+Tot. cap. adequacy ratio,SI,2020,5
+Tot. cap. adequacy ratio,SK,2020,4
+Tot. cap. adequacy ratio,AT,2019,23
+Tot. cap. adequacy ratio,BE,2019,15
+Tot. cap. adequacy ratio,CY,2019,4
+Tot. cap. adequacy ratio,DE,2019,36
+Tot. cap. adequacy ratio,EE,2019,2
+Tot. cap. adequacy ratio,ES,2019,34
+Tot. cap. adequacy ratio,FI,2019,17
+Tot. cap. adequacy ratio,FR,2019,92
+Tot. cap. adequacy ratio,GR,2019,4
+Tot. cap. adequacy ratio,IE,2019,7
+Tot. cap. adequacy ratio,IT,2019,37
+Tot. cap. adequacy ratio,LT,2019,4
+Tot. cap. adequacy ratio,LU,2019,6
+Tot. cap. adequacy ratio,LV,2019,8
+Tot. cap. adequacy ratio,MT,2019,3
+Tot. cap. adequacy ratio,NL,2019,10
+Tot. cap. adequacy ratio,PT,2019,16
+Tot. cap. adequacy ratio,SI,2019,5
+Tot. cap. adequacy ratio,SK,2019,4
+ROAA,AT,2023,23
+ROAA,BE,2023,12
+ROAA,CY,2023,7
+ROAA,DE,2023,54
+ROAA,EE,2023,2
+ROAA,ES,2023,44
+ROAA,FI,2023,13
+ROAA,FR,2023,100
+ROAA,GR,2023,7
+ROAA,IE,2023,10
+ROAA,IT,2023,48
+ROAA,LT,2023,4
+ROAA,LU,2023,8
+ROAA,LV,2023,8
+ROAA,MT,2023,6
+ROAA,NL,2023,9
+ROAA,PT,2023,17
+ROAA,SI,2023,5
+ROAA,SK,2023,5
+ROAA,AT,2022,23
+ROAA,BE,2022,12
+ROAA,CY,2022,7
+ROAA,DE,2022,61
+ROAA,EE,2022,2
+ROAA,ES,2022,43
+ROAA,FI,2022,14
+ROAA,FR,2022,100
+ROAA,GR,2022,7
+ROAA,IE,2022,9
+ROAA,IT,2022,47
+ROAA,LT,2022,4
+ROAA,LU,2022,8
+ROAA,LV,2022,8
+ROAA,MT,2022,6
+ROAA,NL,2022,9
+ROAA,PT,2022,17
+ROAA,SI,2022,5
+ROAA,SK,2022,5
+ROAA,AT,2021,24
+ROAA,BE,2021,14
+ROAA,CY,2021,7
+ROAA,DE,2021,56
+ROAA,EE,2021,3
+ROAA,ES,2021,42
+ROAA,FI,2021,16
+ROAA,FR,2021,100
+ROAA,GR,2021,6
+ROAA,IE,2021,9
+ROAA,IT,2021,45
+ROAA,LT,2021,4
+ROAA,LU,2021,8
+ROAA,LV,2021,9
+ROAA,MT,2021,5
+ROAA,NL,2021,9
+ROAA,PT,2021,17
+ROAA,SI,2021,6
+ROAA,SK,2021,5
+ROAA,AT,2020,25
+ROAA,BE,2020,15
+ROAA,CY,2020,8
+ROAA,DE,2020,56
+ROAA,EE,2020,3
+ROAA,ES,2020,46
+ROAA,FI,2020,15
+ROAA,FR,2020,103
+ROAA,GR,2020,4
+ROAA,IE,2020,9
+ROAA,IT,2020,47
+ROAA,LT,2020,4
+ROAA,LU,2020,9
+ROAA,LV,2020,9
+ROAA,MT,2020,5
+ROAA,NL,2020,9
+ROAA,PT,2020,17
+ROAA,SI,2020,5
+ROAA,SK,2020,5
+ROAA,AT,2019,26
+ROAA,BE,2019,16
+ROAA,CY,2019,8
+ROAA,DE,2019,48
+ROAA,EE,2019,3
+ROAA,ES,2019,44
+ROAA,FI,2019,17
+ROAA,FR,2019,106
+ROAA,GR,2019,4
+ROAA,IE,2019,9
+ROAA,IT,2019,46
+ROAA,LT,2019,4
+ROAA,LU,2019,9
+ROAA,LV,2019,9
+ROAA,MT,2019,5
+ROAA,NL,2019,10
+ROAA,PT,2019,17
+ROAA,SI,2019,5
+ROAA,SK,2019,5
+ROAE,AT,2023,23
+ROAE,BE,2023,12
+ROAE,CY,2023,7
+ROAE,DE,2023,54
+ROAE,EE,2023,2
+ROAE,ES,2023,44
+ROAE,FI,2023,13
+ROAE,FR,2023,100
+ROAE,GR,2023,7
+ROAE,IE,2023,10
+ROAE,IT,2023,48
+ROAE,LT,2023,4
+ROAE,LU,2023,8
+ROAE,LV,2023,7
+ROAE,MT,2023,6
+ROAE,NL,2023,9
+ROAE,PT,2023,17
+ROAE,SI,2023,5
+ROAE,SK,2023,5
+ROAE,AT,2022,23
+ROAE,BE,2022,12
+ROAE,CY,2022,7
+ROAE,DE,2022,60
+ROAE,EE,2022,2
+ROAE,ES,2022,43
+ROAE,FI,2022,14
+ROAE,FR,2022,100
+ROAE,GR,2022,7
+ROAE,IE,2022,9
+ROAE,IT,2022,47
+ROAE,LT,2022,4
+ROAE,LU,2022,8
+ROAE,LV,2022,7
+ROAE,MT,2022,6
+ROAE,NL,2022,9
+ROAE,PT,2022,17
+ROAE,SI,2022,5
+ROAE,SK,2022,5
+ROAE,AT,2021,24
+ROAE,BE,2021,14
+ROAE,CY,2021,7
+ROAE,DE,2021,56
+ROAE,EE,2021,3
+ROAE,ES,2021,42
+ROAE,FI,2021,16
+ROAE,FR,2021,100
+ROAE,GR,2021,6
+ROAE,IE,2021,9
+ROAE,IT,2021,45
+ROAE,LT,2021,4
+ROAE,LU,2021,8
+ROAE,LV,2021,8
+ROAE,MT,2021,5
+ROAE,NL,2021,9
+ROAE,PT,2021,17
+ROAE,SI,2021,6
+ROAE,SK,2021,5
+ROAE,AT,2020,25
+ROAE,BE,2020,15
+ROAE,CY,2020,8
+ROAE,DE,2020,55
+ROAE,EE,2020,3
+ROAE,ES,2020,46
+ROAE,FI,2020,15
+ROAE,FR,2020,103
+ROAE,GR,2020,4
+ROAE,IE,2020,9
+ROAE,IT,2020,47
+ROAE,LT,2020,4
+ROAE,LU,2020,9
+ROAE,LV,2020,8
+ROAE,MT,2020,5
+ROAE,NL,2020,9
+ROAE,PT,2020,17
+ROAE,SI,2020,5
+ROAE,SK,2020,5
+ROAE,AT,2019,26
+ROAE,BE,2019,16
+ROAE,CY,2019,8
+ROAE,DE,2019,48
+ROAE,EE,2019,3
+ROAE,ES,2019,44
+ROAE,FI,2019,17
+ROAE,FR,2019,106
+ROAE,GR,2019,4
+ROAE,IE,2019,9
+ROAE,IT,2019,46
+ROAE,LT,2019,4
+ROAE,LU,2019,9
+ROAE,LV,2019,8
+ROAE,MT,2019,5
+ROAE,NL,2019,10
+ROAE,PT,2019,17
+ROAE,SI,2019,5
+ROAE,SK,2019,5
+NII,AT,2023,23
+NII,BE,2023,12
+NII,CY,2023,7
+NII,DE,2023,53
+NII,EE,2023,2
+NII,ES,2023,44
+NII,FI,2023,13
+NII,FR,2023,100
+NII,GR,2023,7
+NII,IE,2023,10
+NII,IT,2023,48
+NII,LT,2023,4
+NII,LU,2023,8
+NII,LV,2023,8
+NII,MT,2023,6
+NII,NL,2023,9
+NII,PT,2023,17
+NII,SI,2023,5
+NII,SK,2023,5
+NII,AT,2022,23
+NII,BE,2022,12
+NII,CY,2022,7
+NII,DE,2022,60
+NII,EE,2022,2
+NII,ES,2022,43
+NII,FI,2022,14
+NII,FR,2022,100
+NII,GR,2022,7
+NII,IE,2022,9
+NII,IT,2022,47
+NII,LT,2022,4
+NII,LU,2022,8
+NII,LV,2022,8
+NII,MT,2022,6
+NII,NL,2022,9
+NII,PT,2022,17
+NII,SI,2022,5
+NII,SK,2022,5
+NII,AT,2021,24
+NII,BE,2021,13
+NII,CY,2021,7
+NII,DE,2021,55
+NII,EE,2021,3
+NII,ES,2021,42
+NII,FI,2021,16
+NII,FR,2021,100
+NII,GR,2021,6
+NII,IE,2021,9
+NII,IT,2021,45
+NII,LT,2021,4
+NII,LU,2021,8
+NII,LV,2021,9
+NII,MT,2021,5
+NII,NL,2021,9
+NII,PT,2021,17
+NII,SI,2021,6
+NII,SK,2021,5
+NII,AT,2020,25
+NII,BE,2020,14
+NII,CY,2020,8
+NII,DE,2020,55
+NII,EE,2020,3
+NII,ES,2020,46
+NII,FI,2020,15
+NII,FR,2020,103
+NII,GR,2020,4
+NII,IE,2020,9
+NII,IT,2020,47
+NII,LT,2020,4
+NII,LU,2020,9
+NII,LV,2020,9
+NII,MT,2020,5
+NII,NL,2020,9
+NII,PT,2020,17
+NII,SI,2020,5
+NII,SK,2020,5
+NII,AT,2019,26
+NII,BE,2019,15
+NII,CY,2019,8
+NII,DE,2019,47
+NII,EE,2019,3
+NII,ES,2019,44
+NII,FI,2019,17
+NII,FR,2019,106
+NII,GR,2019,4
+NII,IE,2019,9
+NII,IT,2019,46
+NII,LT,2019,4
+NII,LU,2019,9
+NII,LV,2019,9
+NII,MT,2019,5
+NII,NL,2019,10
+NII,PT,2019,17
+NII,SI,2019,5
+NII,SK,2019,5
+NII-RWAs,AT,2023,18
+NII-RWAs,BE,2023,9
+NII-RWAs,CY,2023,3
+NII-RWAs,DE,2023,26
+NII-RWAs,EE,2023,2
+NII-RWAs,ES,2023,27
+NII-RWAs,FI,2023,13
+NII-RWAs,FR,2023,76
+NII-RWAs,GR,2023,4
+NII-RWAs,IE,2023,7
+NII-RWAs,IT,2023,37
+NII-RWAs,LT,2023,3
+NII-RWAs,LU,2023,5
+NII-RWAs,LV,2023,7
+NII-RWAs,MT,2023,3
+NII-RWAs,NL,2023,9
+NII-RWAs,PT,2023,14
+NII-RWAs,SI,2023,5
+NII-RWAs,SK,2023,5
+NII-RWAs,AT,2022,18
+NII-RWAs,BE,2022,8
+NII-RWAs,CY,2022,4
+NII-RWAs,DE,2022,29
+NII-RWAs,EE,2022,2
+NII-RWAs,ES,2022,28
+NII-RWAs,FI,2022,14
+NII-RWAs,FR,2022,72
+NII-RWAs,GR,2022,3
+NII-RWAs,IE,2022,7
+NII-RWAs,IT,2022,32
+NII-RWAs,LT,2022,3
+NII-RWAs,LU,2022,5
+NII-RWAs,LV,2022,4
+NII-RWAs,MT,2022,2
+NII-RWAs,NL,2022,9
+NII-RWAs,PT,2022,13
+NII-RWAs,SI,2022,5
+NII-RWAs,SK,2022,5
+NII-RWAs,AT,2021,20
+NII-RWAs,BE,2021,9
+NII-RWAs,CY,2021,4
+NII-RWAs,DE,2021,26
+NII-RWAs,EE,2021,2
+NII-RWAs,ES,2021,25
+NII-RWAs,FI,2021,13
+NII-RWAs,FR,2021,71
+NII-RWAs,GR,2021,4
+NII-RWAs,IE,2021,8
+NII-RWAs,IT,2021,32
+NII-RWAs,LT,2021,4
+NII-RWAs,LU,2021,5
+NII-RWAs,LV,2021,7
+NII-RWAs,MT,2021,3
+NII-RWAs,NL,2021,8
+NII-RWAs,PT,2021,15
+NII-RWAs,SI,2021,4
+NII-RWAs,SK,2021,5
+NII-RWAs,AT,2020,21
+NII-RWAs,BE,2020,9
+NII-RWAs,CY,2020,4
+NII-RWAs,DE,2020,22
+NII-RWAs,EE,2020,2
+NII-RWAs,ES,2020,27
+NII-RWAs,FI,2020,15
+NII-RWAs,FR,2020,81
+NII-RWAs,GR,2020,4
+NII-RWAs,IE,2020,7
+NII-RWAs,IT,2020,33
+NII-RWAs,LT,2020,4
+NII-RWAs,LU,2020,5
+NII-RWAs,LV,2020,8
+NII-RWAs,MT,2020,3
+NII-RWAs,NL,2020,8
+NII-RWAs,PT,2020,15
+NII-RWAs,SI,2020,4
+NII-RWAs,SK,2020,5
+NII-RWAs,AT,2019,21
+NII-RWAs,BE,2019,9
+NII-RWAs,CY,2019,4
+NII-RWAs,DE,2019,20
+NII-RWAs,EE,2019,2
+NII-RWAs,ES,2019,28
+NII-RWAs,FI,2019,17
+NII-RWAs,FR,2019,83
+NII-RWAs,GR,2019,4
+NII-RWAs,IE,2019,6
+NII-RWAs,IT,2019,26
+NII-RWAs,LT,2019,4
+NII-RWAs,LU,2019,5
+NII-RWAs,LV,2019,8
+NII-RWAs,MT,2019,3
+NII-RWAs,NL,2019,9
+NII-RWAs,PT,2019,15
+NII-RWAs,SI,2019,4
+NII-RWAs,SK,2019,5
+Impaired loans,AT,2023,18
+Impaired loans,BE,2023,10
+Impaired loans,CY,2023,7
+Impaired loans,DE,2023,19
+Impaired loans,EE,2023,2
+Impaired loans,ES,2023,32
+Impaired loans,FI,2023,13
+Impaired loans,FR,2023,96
+Impaired loans,GR,2023,7
+Impaired loans,IE,2023,9
+Impaired loans,IT,2023,45
+Impaired loans,LT,2023,4
+Impaired loans,LU,2023,8
+Impaired loans,LV,2023,7
+Impaired loans,MT,2023,5
+Impaired loans,NL,2023,8
+Impaired loans,PT,2023,15
+Impaired loans,SI,2023,5
+Impaired loans,SK,2023,5
+Impaired loans,AT,2022,18
+Impaired loans,BE,2022,10
+Impaired loans,CY,2022,7
+Impaired loans,DE,2022,19
+Impaired loans,EE,2022,2
+Impaired loans,ES,2022,32
+Impaired loans,FI,2022,14
+Impaired loans,FR,2022,96
+Impaired loans,GR,2022,7
+Impaired loans,IE,2022,9
+Impaired loans,IT,2022,46
+Impaired loans,LT,2022,4
+Impaired loans,LU,2022,8
+Impaired loans,LV,2022,7
+Impaired loans,MT,2022,5
+Impaired loans,NL,2022,8
+Impaired loans,PT,2022,15
+Impaired loans,SI,2022,5
+Impaired loans,SK,2022,5
+Impaired loans,AT,2021,19
+Impaired loans,BE,2021,11
+Impaired loans,CY,2021,7
+Impaired loans,DE,2021,16
+Impaired loans,EE,2021,2
+Impaired loans,ES,2021,31
+Impaired loans,FI,2021,16
+Impaired loans,FR,2021,95
+Impaired loans,GR,2021,6
+Impaired loans,IE,2021,9
+Impaired loans,IT,2021,45
+Impaired loans,LT,2021,4
+Impaired loans,LU,2021,7
+Impaired loans,LV,2021,9
+Impaired loans,MT,2021,5
+Impaired loans,NL,2021,9
+Impaired loans,PT,2021,14
+Impaired loans,SI,2021,6
+Impaired loans,SK,2021,5
+Impaired loans,AT,2020,20
+Impaired loans,BE,2020,11
+Impaired loans,CY,2020,8
+Impaired loans,DE,2020,27
+Impaired loans,EE,2020,2
+Impaired loans,ES,2020,34
+Impaired loans,FI,2020,14
+Impaired loans,FR,2020,96
+Impaired loans,GR,2020,5
+Impaired loans,IE,2020,9
+Impaired loans,IT,2020,47
+Impaired loans,LT,2020,4
+Impaired loans,LU,2020,7
+Impaired loans,LV,2020,9
+Impaired loans,MT,2020,5
+Impaired loans,NL,2020,9
+Impaired loans,PT,2020,15
+Impaired loans,SI,2020,4
+Impaired loans,SK,2020,5
+Impaired loans,AT,2019,21
+Impaired loans,BE,2019,12
+Impaired loans,CY,2019,8
+Impaired loans,DE,2019,25
+Impaired loans,EE,2019,2
+Impaired loans,ES,2019,35
+Impaired loans,FI,2019,15
+Impaired loans,FR,2019,98
+Impaired loans,GR,2019,4
+Impaired loans,IE,2019,8
+Impaired loans,IT,2019,46
+Impaired loans,LT,2019,4
+Impaired loans,LU,2019,7
+Impaired loans,LV,2019,9
+Impaired loans,MT,2019,5
+Impaired loans,NL,2019,9
+Impaired loans,PT,2019,15
+Impaired loans,SI,2019,4
+Impaired loans,SK,2019,5
+Impaired loans-RWAs,AT,2023,18
+Impaired loans-RWAs,BE,2023,9
+Impaired loans-RWAs,CY,2023,3
+Impaired loans-RWAs,DE,2023,26
+Impaired loans-RWAs,EE,2023,2
+Impaired loans-RWAs,ES,2023,27
+Impaired loans-RWAs,FI,2023,13
+Impaired loans-RWAs,FR,2023,76
+Impaired loans-RWAs,GR,2023,4
+Impaired loans-RWAs,IE,2023,7
+Impaired loans-RWAs,IT,2023,37
+Impaired loans-RWAs,LT,2023,3
+Impaired loans-RWAs,LU,2023,5
+Impaired loans-RWAs,LV,2023,7
+Impaired loans-RWAs,MT,2023,3
+Impaired loans-RWAs,NL,2023,9
+Impaired loans-RWAs,PT,2023,14
+Impaired loans-RWAs,SI,2023,5
+Impaired loans-RWAs,SK,2023,5
+Impaired loans-RWAs,AT,2022,18
+Impaired loans-RWAs,BE,2022,8
+Impaired loans-RWAs,CY,2022,4
+Impaired loans-RWAs,DE,2022,29
+Impaired loans-RWAs,EE,2022,2
+Impaired loans-RWAs,ES,2022,28
+Impaired loans-RWAs,FI,2022,14
+Impaired loans-RWAs,FR,2022,72
+Impaired loans-RWAs,GR,2022,3
+Impaired loans-RWAs,IE,2022,7
+Impaired loans-RWAs,IT,2022,32
+Impaired loans-RWAs,LT,2022,3
+Impaired loans-RWAs,LU,2022,5
+Impaired loans-RWAs,LV,2022,4
+Impaired loans-RWAs,MT,2022,2
+Impaired loans-RWAs,NL,2022,9
+Impaired loans-RWAs,PT,2022,13
+Impaired loans-RWAs,SI,2022,5
+Impaired loans-RWAs,SK,2022,5
+Impaired loans-RWAs,AT,2021,20
+Impaired loans-RWAs,BE,2021,9
+Impaired loans-RWAs,CY,2021,4
+Impaired loans-RWAs,DE,2021,26
+Impaired loans-RWAs,EE,2021,2
+Impaired loans-RWAs,ES,2021,25
+Impaired loans-RWAs,FI,2021,13
+Impaired loans-RWAs,FR,2021,71
+Impaired loans-RWAs,GR,2021,4
+Impaired loans-RWAs,IE,2021,8
+Impaired loans-RWAs,IT,2021,32
+Impaired loans-RWAs,LT,2021,4
+Impaired loans-RWAs,LU,2021,5
+Impaired loans-RWAs,LV,2021,7
+Impaired loans-RWAs,MT,2021,3
+Impaired loans-RWAs,NL,2021,8
+Impaired loans-RWAs,PT,2021,15
+Impaired loans-RWAs,SI,2021,4
+Impaired loans-RWAs,SK,2021,5
+Impaired loans-RWAs,AT,2020,21
+Impaired loans-RWAs,BE,2020,9
+Impaired loans-RWAs,CY,2020,4
+Impaired loans-RWAs,DE,2020,22
+Impaired loans-RWAs,EE,2020,2
+Impaired loans-RWAs,ES,2020,27
+Impaired loans-RWAs,FI,2020,15
+Impaired loans-RWAs,FR,2020,81
+Impaired loans-RWAs,GR,2020,4
+Impaired loans-RWAs,IE,2020,7
+Impaired loans-RWAs,IT,2020,33
+Impaired loans-RWAs,LT,2020,4
+Impaired loans-RWAs,LU,2020,5
+Impaired loans-RWAs,LV,2020,8
+Impaired loans-RWAs,MT,2020,3
+Impaired loans-RWAs,NL,2020,8
+Impaired loans-RWAs,PT,2020,15
+Impaired loans-RWAs,SI,2020,4
+Impaired loans-RWAs,SK,2020,5
+Impaired loans-RWAs,AT,2019,21
+Impaired loans-RWAs,BE,2019,9
+Impaired loans-RWAs,CY,2019,4
+Impaired loans-RWAs,DE,2019,20
+Impaired loans-RWAs,EE,2019,2
+Impaired loans-RWAs,ES,2019,28
+Impaired loans-RWAs,FI,2019,17
+Impaired loans-RWAs,FR,2019,83
+Impaired loans-RWAs,GR,2019,4
+Impaired loans-RWAs,IE,2019,6
+Impaired loans-RWAs,IT,2019,26
+Impaired loans-RWAs,LT,2019,4
+Impaired loans-RWAs,LU,2019,5
+Impaired loans-RWAs,LV,2019,8
+Impaired loans-RWAs,MT,2019,3
+Impaired loans-RWAs,NL,2019,9
+Impaired loans-RWAs,PT,2019,15
+Impaired loans-RWAs,SI,2019,4
+Impaired loans-RWAs,SK,2019,5

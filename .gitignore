@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.pytest_cache/
+
+# BankFocus is a proprietary, subscription-based database (Moody's/Bureau
+# van Dijk). Do not commit ANY of the files below until you have verified
+# that your university's license terms permit redistribution -- see
+# README.md ("Data license note"). This is not limited to the raw export:
+# outlier_report.csv contains 1,506 individually identified bank names and
+# values drawn straight from the licensed data, and output_clean.xlsx /
+# balanced_panel_report.csv are derived directly from it too. Excluding
+# only data.xlsx is NOT sufficient on its own.
+data/data.xlsx
+data/output_clean.xlsx
+data/outlier_report.csv
+data/balanced_panel_report.csv
+# coverage_report.csv contains only bank COUNTS (no names or financial
+# values) and is left trackable by default -- reassess if your license is
+# stricter than that.
